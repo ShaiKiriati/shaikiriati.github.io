@@ -1,12 +1,12 @@
 # shaikiriati.github.io
 Shai Kiriati's repository
-
+![My img](shai.jpeg)
 PhD student in Elbaum group, Weizmann Institute of Science
 
 **About me today**
 - Physicist by training, but interested in mostly everything
 - Love singing, playing guitar and bass and playing TTRPGS
-- Say hi to my dog Max!
+- Say hi to my dog Max! ![Max img](max.jpeg)
 
 **About my history**
 - MSc in Physics from Weizmann
