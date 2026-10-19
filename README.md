@@ -1,9 +1,11 @@
 # shaikiriati.github.io
-Shai Kiriati's repository
+**Shai Kiriati's repository**
 
 ![My img](shai.jpeg)
 
 PhD student in Elbaum group, Weizmann Institute of Science
+
+Working on 4DSTEM of thick biological samples (ask me more!)
 
 **About me today**
 - Physicist by training, but interested in mostly everything
