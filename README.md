@@ -11,7 +11,7 @@ Working on 4DSTEM of thick biological samples (ask me more!)
 - Physicist by training, but interested in mostly everything
 - Love singing, playing guitar and bass and playing TTRPGS
 - Say hi to my dog Max!
-  <img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/max.jpeg" width=50% height=50%> 
+  <img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/max2.jpeg" width=50% height=50%> 
 
 **About my history**
 - MSc in Physics from Weizmann
