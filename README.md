@@ -1,4 +1,6 @@
 # shaikiriati.github.io
 Shai Kiriati's repository
 
-Weizmann account
+PhD student in Elbaum group, Weizmann Institute of Science
+
+
