@@ -25,3 +25,8 @@ Working on 4DSTEM of thick biological samples (ask me more!)
 - Languages (programming): Python, Matlab, C# (some), C (very little), Mathematica (please don't)
 - Teaching
 - Asking too many questions
+
+
+![xkcd the difference](the_difference.png)
+_The reason I'm here_
+(source: XKCD)
