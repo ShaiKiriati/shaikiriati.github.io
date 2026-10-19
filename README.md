@@ -1,7 +1,7 @@
 # shaikiriati.github.io
 **Shai Kiriati's repository**
 
-<img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/shai_img.png" width=30% height=30%> 
+<img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/images/shai_img.png" width=30% height=30%> 
 
 PhD student in Elbaum group, Weizmann Institute of Science
 
@@ -11,7 +11,7 @@ Working on 4DSTEM of thick biological samples (ask me more!)
 - Physicist by training, but interested in mostly everything
 - Love singing, playing guitar and bass and playing TTRPGS
 - Say hi to my dog Max!
-  <img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/max2.jpeg" width=50% height=50%> 
+  <img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/images/max2.jpeg" width=50% height=50%> 
 
 **About my history**
 - MSc in Physics from Weizmann
@@ -28,7 +28,7 @@ Working on 4DSTEM of thick biological samples (ask me more!)
 - Asking too many questions
 
 
-![xkcd the difference](the_difference.png)
+![xkcd the difference](images/the_difference.png)
 
 _The reason I'm here_
 
