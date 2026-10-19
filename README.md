@@ -1,7 +1,7 @@
 # shaikiriati.github.io
 **Shai Kiriati's repository**
 
-![My img](shai_img.png)
+<img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/shai_img.png" width=30% height=30%> 
 
 PhD student in Elbaum group, Weizmann Institute of Science
 
