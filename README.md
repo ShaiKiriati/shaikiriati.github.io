@@ -1,7 +1,7 @@
 # shaikiriati.github.io
 **Shai Kiriati's repository**
 
-<img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/images/shai_img.png" width=30% height=30%> 
+<img src="./images/shai_img.png" width=30% height=30%> 
 
 PhD student in Elbaum group, Weizmann Institute of Science
 
@@ -12,7 +12,7 @@ Working on 4DSTEM of thick biological samples (ask me more!)
 - Love singing, playing guitar and bass and playing TTRPGS
 - Say hi to my dog Max!
 
-   <img src="https://github.com/ShaiKiriati/shaikiriati.github.io/blob/main/images/max2.jpeg" width=50% height=50%> 
+   <img src="./images/max2.jpeg" width=50% height=50%> 
 
 **About my history**
 - MSc in Physics from Weizmann
