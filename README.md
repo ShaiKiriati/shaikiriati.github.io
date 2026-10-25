@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-<img src="./images/shai_img.png" width=30% height=30%> 
+<img src="images/shai_img.png" width=30% height=30%> 
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@
 - Love singing, playing guitar and bass and playing TTRPGS
 - Say hi to my dog Max!
 <p align="center">
-   <img src="./images/max2.jpeg" width=50% height=50%> 
+   <img src="images/max2.jpeg" width=50% height=50%> 
 </p>
 
 ## **About my history**
