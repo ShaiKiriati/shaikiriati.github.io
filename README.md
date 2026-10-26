@@ -4,6 +4,8 @@
 
 <img src="images/shai_img.png" alt="Shai" width="30%">
 
+<i>Week 2 version</i>
+
 <p><b><i>PhD student in Elbaum group, Weizmann Institute of Science</i></b></p>
 
 <p><b><i>Working on 4DSTEM of thick biological samples (ask me more!)</i></b></p>
